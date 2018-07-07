@@ -28,7 +28,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 2160
-TARGET_SCREEN_WIDTH := 1080
+TARGET_SCREEN_WIDTH := 1440
 
 # Inherit from kirin970-common
 $(call inherit-product, device/huawei/kirin970-common/kirin970.mk)
