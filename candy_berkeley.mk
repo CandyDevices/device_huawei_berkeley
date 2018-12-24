@@ -22,4 +22,5 @@ $(call inherit-product, vendor/candy/config/common_full_phone.mk)
 PRODUCT_NAME := candy_berkeley
 PRODUCT_DEVICE := berkeley
 PRODUCT_BRAND := Huawei
+PRODUCT_MANUFACTURER := HUAWEI
 PRODUCT_MODEL := Honor View 10
